@@ -1,0 +1,4 @@
+/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/CMakeFiles/browser.dir
+/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/CMakeFiles/browser_gobj.dir
+/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/CMakeFiles/edit_cache.dir
+/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/CMakeFiles/rebuild_cache.dir

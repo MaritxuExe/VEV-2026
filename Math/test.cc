@@ -14,7 +14,7 @@ void pause() {
 	getchar();
 }
 
-// Vector3
+// Vector3make
 void printVector3(const char *text, const Vector3 &v) {
 	printf("      %s", text); v.print(); printf("\n");
 }

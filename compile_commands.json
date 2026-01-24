@@ -1,0 +1,518 @@
+[
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Principal/browser.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal/browser.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal/browser.cc",
+  "output": "CMakeFiles/browser.dir/Principal/browser.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Math/vector3.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/vector3.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/vector3.cc",
+  "output": "CMakeFiles/browser.dir/Math/vector3.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Math/trfm3D.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/trfm3D.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/trfm3D.cc",
+  "output": "CMakeFiles/browser.dir/Math/trfm3D.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Math/plane.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/plane.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/plane.cc",
+  "output": "CMakeFiles/browser.dir/Math/plane.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Math/line.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/line.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/line.cc",
+  "output": "CMakeFiles/browser.dir/Math/line.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Math/segment.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/segment.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/segment.cc",
+  "output": "CMakeFiles/browser.dir/Math/segment.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Math/bbox.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/bbox.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/bbox.cc",
+  "output": "CMakeFiles/browser.dir/Math/bbox.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Math/bsphere.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/bsphere.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/bsphere.cc",
+  "output": "CMakeFiles/browser.dir/Math/bsphere.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Math/intersect.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/intersect.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/intersect.cc",
+  "output": "CMakeFiles/browser.dir/Math/intersect.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Math/bboxGL.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/bboxGL.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/bboxGL.cc",
+  "output": "CMakeFiles/browser.dir/Math/bboxGL.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Math/trfmStack.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/trfmStack.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/trfmStack.cc",
+  "output": "CMakeFiles/browser.dir/Math/trfmStack.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Geometry/triangleMesh.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/triangleMesh.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/triangleMesh.cc",
+  "output": "CMakeFiles/browser.dir/Geometry/triangleMesh.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Geometry/gObject.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/gObject.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/gObject.cc",
+  "output": "CMakeFiles/browser.dir/Geometry/gObject.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Geometry/gObjectManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/gObjectManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/gObjectManager.cc",
+  "output": "CMakeFiles/browser.dir/Geometry/gObjectManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Geometry/triangleMeshGL.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/triangleMeshGL.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/triangleMeshGL.cc",
+  "output": "CMakeFiles/browser.dir/Geometry/triangleMeshGL.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Shading/light.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/light.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/light.cc",
+  "output": "CMakeFiles/browser.dir/Shading/light.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Shading/material.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/material.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/material.cc",
+  "output": "CMakeFiles/browser.dir/Shading/material.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Shading/texture.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/texture.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/texture.cc",
+  "output": "CMakeFiles/browser.dir/Shading/texture.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Shading/texturert.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/texturert.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/texturert.cc",
+  "output": "CMakeFiles/browser.dir/Shading/texturert.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Shading/image.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/image.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/image.cc",
+  "output": "CMakeFiles/browser.dir/Shading/image.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Shading/textureManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/textureManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/textureManager.cc",
+  "output": "CMakeFiles/browser.dir/Shading/textureManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Shading/materialManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/materialManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/materialManager.cc",
+  "output": "CMakeFiles/browser.dir/Shading/materialManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Shading/lightManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/lightManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/lightManager.cc",
+  "output": "CMakeFiles/browser.dir/Shading/lightManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Shading/imageManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/imageManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/imageManager.cc",
+  "output": "CMakeFiles/browser.dir/Shading/imageManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Shaders/shaderUtils.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/shaderUtils.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/shaderUtils.cc",
+  "output": "CMakeFiles/browser.dir/Shaders/shaderUtils.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Shaders/shaderManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/shaderManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/shaderManager.cc",
+  "output": "CMakeFiles/browser.dir/Shaders/shaderManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Shaders/shader.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/shader.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/shader.cc",
+  "output": "CMakeFiles/browser.dir/Shaders/shader.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Shaders/uniform.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/uniform.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/uniform.cc",
+  "output": "CMakeFiles/browser.dir/Shaders/uniform.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Camera/camera.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/camera.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/camera.cc",
+  "output": "CMakeFiles/browser.dir/Camera/camera.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Camera/avatar.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/avatar.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/avatar.cc",
+  "output": "CMakeFiles/browser.dir/Camera/avatar.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Camera/cameraManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/cameraManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/cameraManager.cc",
+  "output": "CMakeFiles/browser.dir/Camera/cameraManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Camera/avatarManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/avatarManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/avatarManager.cc",
+  "output": "CMakeFiles/browser.dir/Camera/avatarManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Scene/node.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/node.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/node.cc",
+  "output": "CMakeFiles/browser.dir/Scene/node.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Scene/nodeManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/nodeManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/nodeManager.cc",
+  "output": "CMakeFiles/browser.dir/Scene/nodeManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Scene/renderState.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/renderState.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/renderState.cc",
+  "output": "CMakeFiles/browser.dir/Scene/renderState.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Scene/scene.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/scene.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/scene.cc",
+  "output": "CMakeFiles/browser.dir/Scene/scene.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Scene/skybox.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/skybox.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/skybox.cc",
+  "output": "CMakeFiles/browser.dir/Scene/skybox.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Misc/constants.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/constants.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/constants.cc",
+  "output": "CMakeFiles/browser.dir/Misc/constants.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Misc/tools.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/tools.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/tools.cc",
+  "output": "CMakeFiles/browser.dir/Misc/tools.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Misc/jsoncpp.cpp.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/jsoncpp.cpp",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/jsoncpp.cpp",
+  "output": "CMakeFiles/browser.dir/Misc/jsoncpp.cpp.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Misc/parse_scene.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/parse_scene.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/parse_scene.cc",
+  "output": "CMakeFiles/browser.dir/Misc/parse_scene.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/cc  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Misc/glm.c.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/glm.c",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/glm.c",
+  "output": "CMakeFiles/browser.dir/Misc/glm.c.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser.dir/Principal/scenes.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal/scenes.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal/scenes.cc",
+  "output": "CMakeFiles/browser.dir/Principal/scenes.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Principal/browser_gobj.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal/browser_gobj.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal/browser_gobj.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Principal/browser_gobj.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Math/vector3.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/vector3.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/vector3.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Math/vector3.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Math/trfm3D.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/trfm3D.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/trfm3D.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Math/trfm3D.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Math/plane.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/plane.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/plane.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Math/plane.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Math/line.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/line.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/line.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Math/line.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Math/segment.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/segment.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/segment.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Math/segment.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Math/bbox.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/bbox.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/bbox.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Math/bbox.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Math/bsphere.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/bsphere.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/bsphere.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Math/bsphere.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Math/intersect.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/intersect.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/intersect.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Math/intersect.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Math/bboxGL.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/bboxGL.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/bboxGL.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Math/bboxGL.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Math/trfmStack.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/trfmStack.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/trfmStack.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Math/trfmStack.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Geometry/triangleMesh.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/triangleMesh.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/triangleMesh.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Geometry/triangleMesh.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Geometry/gObject.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/gObject.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/gObject.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Geometry/gObject.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Geometry/gObjectManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/gObjectManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/gObjectManager.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Geometry/gObjectManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Geometry/triangleMeshGL.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/triangleMeshGL.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry/triangleMeshGL.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Geometry/triangleMeshGL.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Shading/light.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/light.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/light.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Shading/light.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Shading/material.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/material.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/material.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Shading/material.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Shading/texture.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/texture.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/texture.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Shading/texture.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Shading/texturert.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/texturert.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/texturert.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Shading/texturert.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Shading/image.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/image.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/image.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Shading/image.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Shading/textureManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/textureManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/textureManager.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Shading/textureManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Shading/materialManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/materialManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/materialManager.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Shading/materialManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Shading/lightManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/lightManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/lightManager.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Shading/lightManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Shading/imageManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/imageManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading/imageManager.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Shading/imageManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Shaders/shaderUtils.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/shaderUtils.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/shaderUtils.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Shaders/shaderUtils.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Shaders/shaderManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/shaderManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/shaderManager.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Shaders/shaderManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Shaders/shader.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/shader.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/shader.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Shaders/shader.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Shaders/uniform.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/uniform.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders/uniform.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Shaders/uniform.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Camera/camera.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/camera.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/camera.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Camera/camera.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Camera/avatar.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/avatar.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/avatar.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Camera/avatar.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Camera/cameraManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/cameraManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/cameraManager.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Camera/cameraManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Camera/avatarManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/avatarManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera/avatarManager.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Camera/avatarManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Scene/node.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/node.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/node.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Scene/node.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Scene/nodeManager.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/nodeManager.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/nodeManager.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Scene/nodeManager.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Scene/renderState.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/renderState.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/renderState.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Scene/renderState.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Scene/scene.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/scene.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/scene.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Scene/scene.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Scene/skybox.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/skybox.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene/skybox.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Scene/skybox.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Misc/constants.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/constants.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/constants.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Misc/constants.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Misc/tools.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/tools.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/tools.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Misc/tools.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Misc/jsoncpp.cpp.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/jsoncpp.cpp",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/jsoncpp.cpp",
+  "output": "CMakeFiles/browser_gobj.dir/Misc/jsoncpp.cpp.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Misc/parse_scene.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/parse_scene.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/parse_scene.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Misc/parse_scene.cc.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/cc  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Misc/glm.c.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/glm.c",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc/glm.c",
+  "output": "CMakeFiles/browser_gobj.dir/Misc/glm.c.o"
+},
+{
+  "directory": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main",
+  "command": "/usr/bin/c++  -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/. -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Geometry -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shading -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Shaders -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Camera -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Scene -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Misc -I/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal -g -o CMakeFiles/browser_gobj.dir/Principal/scenes.cc.o -c /home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal/scenes.cc",
+  "file": "/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Principal/scenes.cc",
+  "output": "CMakeFiles/browser_gobj.dir/Principal/scenes.cc.o"
+}
+]
