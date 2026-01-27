@@ -1,0 +1,3 @@
+/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/CMakeFiles/test.dir
+/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/CMakeFiles/edit_cache.dir
+/home/mar/Desktop/Uni/5nto/5.2/VEV/mg2026-main/Math/CMakeFiles/rebuild_cache.dir

@@ -15,22 +15,27 @@
 //   -IREJECT inside
 //    IINTERSECT intersect
 
-int BSpherePlaneIntersect(const BSphere *bs, Plane *pl) {
+int BSpherePlaneIntersect(const BSphere *bs, Plane *pl)
+{
 	/* =================== PUT YOUR CODE HERE ====================== */
 
 	/* =================== END YOUR CODE HERE ====================== */
+	// MODIFICAR ESTE RETURN
+	return 0;
 }
-
 
 // @@ TODO: test if two BBoxes intersect.
 //! Returns :
 //    IINTERSECT intersect
 //    IREJECT don't intersect
 
-int  BBoxBBoxIntersect(const BBox *bba, const BBox *bbb ) {
+int BBoxBBoxIntersect(const BBox *bba, const BBox *bbb)
+{
 	/* =================== PUT YOUR CODE HERE ====================== */
 
 	/* =================== END YOUR CODE HERE ====================== */
+	// MODIFICAR ESTE RETURN
+	return 0;
 }
 
 // @@ TODO: test if a BBox and a plane intersect.
@@ -39,10 +44,13 @@ int  BBoxBBoxIntersect(const BBox *bba, const BBox *bbb ) {
 //   -IREJECT inside
 //    IINTERSECT intersect
 
-int  BBoxPlaneIntersect (const BBox *theBBox, Plane *thePlane) {
+int BBoxPlaneIntersect(const BBox *theBBox, Plane *thePlane)
+{
 	/* =================== PUT YOUR CODE HERE ====================== */
 
 	/* =================== END YOUR CODE HERE ====================== */
+	// MODIFICAR ESTE RETURN
+	return 0;
 }
 
 // Test if two BSpheres intersect.
@@ -50,23 +58,25 @@ int  BBoxPlaneIntersect (const BBox *theBBox, Plane *thePlane) {
 //    IREJECT don't intersect
 //    IINTERSECT intersect
 
-int BSphereBSphereIntersect(const BSphere *bsa, const BSphere *bsb ) {
+int BSphereBSphereIntersect(const BSphere *bsa, const BSphere *bsb)
+{
 
 	Vector3 v;
 	v = bsa->m_centre - bsb->m_centre;
 	float ls = v.dot(v);
 	float rs = bsa->m_radius + bsb->m_radius;
-	if (ls > (rs * rs)) return IREJECT; // Disjoint
-	return IINTERSECT; // Intersect
+	if (ls > (rs * rs))
+		return IREJECT; // Disjoint
+	return IINTERSECT;	// Intersect
 }
-
 
 // Test if a BSpheres intersect a BBox.
 //! Returns :
 //    IREJECT don't intersect
 //    IINTERSECT intersect
 
-int BSphereBBoxIntersect(const BSphere *sphere, const BBox *box) {
+int BSphereBBoxIntersect(const BSphere *sphere, const BBox *box)
+{
 
 	float d;
 	float aux;
@@ -76,41 +86,60 @@ int BSphereBBoxIntersect(const BSphere *sphere, const BBox *box) {
 	d = 0;
 
 	aux = sphere->m_centre[0] - box->m_min[0];
-	if (aux < 0) {
-		if (aux < -r) return IREJECT;
-		d += aux*aux;
-	} else {
+	if (aux < 0)
+	{
+		if (aux < -r)
+			return IREJECT;
+		d += aux * aux;
+	}
+	else
+	{
 		aux = sphere->m_centre[0] - box->m_max[0];
-		if (aux > 0) {
-			if (aux > r) return IREJECT;
-			d += aux*aux;
+		if (aux > 0)
+		{
+			if (aux > r)
+				return IREJECT;
+			d += aux * aux;
 		}
 	}
 
 	aux = (sphere->m_centre[1] - box->m_min[1]);
-	if (aux < 0) {
-		if (aux < -r) return IREJECT;
-		d += aux*aux;
-	} else {
+	if (aux < 0)
+	{
+		if (aux < -r)
+			return IREJECT;
+		d += aux * aux;
+	}
+	else
+	{
 		aux = sphere->m_centre[1] - box->m_max[1];
-		if (aux > 0) {
-			if (aux > r) return IREJECT;
-			d += aux*aux;
+		if (aux > 0)
+		{
+			if (aux > r)
+				return IREJECT;
+			d += aux * aux;
 		}
 	}
 
 	aux = sphere->m_centre[2] - box->m_min[2];
-	if (aux < 0) {
-		if (aux < -r) return IREJECT;
-		d += aux*aux;
-	} else {
+	if (aux < 0)
+	{
+		if (aux < -r)
+			return IREJECT;
+		d += aux * aux;
+	}
+	else
+	{
 		aux = sphere->m_centre[2] - box->m_max[2];
-		if (aux > 0) {
-			if (aux > r) return IREJECT;
-			d += aux*aux;
+		if (aux > 0)
+		{
+			if (aux > r)
+				return IREJECT;
+			d += aux * aux;
 		}
 	}
-	if (d > r * r) return IREJECT;
+	if (d > r * r)
+		return IREJECT;
 	return IINTERSECT;
 }
 
@@ -119,24 +148,28 @@ int BSphereBBoxIntersect(const BSphere *sphere, const BBox *box) {
 //    IREJECT don't intersect
 //    IINTERSECT intersect
 
-int IntersectTriangleRay(const Vector3 & P0,
-						 const Vector3 & P1,
-						 const Vector3 & P2,
+int IntersectTriangleRay(const Vector3 &P0,
+						 const Vector3 &P1,
+						 const Vector3 &P2,
 						 const Line *l,
-						 Vector3 & uvw) {
+						 Vector3 &uvw)
+{
 	Vector3 e1(P1 - P0);
 	Vector3 e2(P2 - P0);
 	Vector3 p(l->m_d.cross(e2));
 	float a = e1.dot(p);
-	if (fabs(a) < Constants::distance_epsilon) return IREJECT;
+	if (fabs(a) < Constants::distance_epsilon)
+		return IREJECT;
 	float f = 1.0f / a;
 	// s = l->o - P0
 	Vector3 s(l->m_O - P0);
 	float lu = f * s.dot(p);
-	if (lu < 0.0 || lu > 1.0) return IREJECT;
+	if (lu < 0.0 || lu > 1.0)
+		return IREJECT;
 	Vector3 q(s.cross(e1));
 	float lv = f * q.dot(l->m_d);
-	if (lv < 0.0 || lv > 1.0) return IREJECT;
+	if (lv < 0.0 || lv > 1.0)
+		return IREJECT;
 	uvw[0] = lu;
 	uvw[1] = lv;
 	uvw[2] = f * e2.dot(q);
@@ -147,7 +180,8 @@ int IntersectTriangleRay(const Vector3 & P0,
 /* IINTERSECT 0 */
 /* -IREJECT -1 */
 
-const char *intersect_string(int intersect) {
+const char *intersect_string(int intersect)
+{
 
 	static const char *iint = "IINTERSECT";
 	static const char *prej = "IREJECT";
@@ -156,7 +190,8 @@ const char *intersect_string(int intersect) {
 
 	const char *result = error;
 
-	switch (intersect) {
+	switch (intersect)
+	{
 	case IINTERSECT:
 		result = iint;
 		break;

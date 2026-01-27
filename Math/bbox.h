@@ -39,11 +39,13 @@ public:
 	 *
 	 *
 	 */
+	//Junta dos BBox dentro de uno más grande
 	void include(const BBox *other );
 
 	/**
 	 * transform by a trfm
 	 */
+	//Dado un BBox distitno a AABB, lo introduce en un BBox más grande
 	void transform(const Trfm3D * T);
 
 

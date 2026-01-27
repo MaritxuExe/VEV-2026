@@ -27,15 +27,15 @@ void Line::setFromAtoB(const Vector3 &A, const Vector3 &B)
 {
 	/* =================== PUT YOUR CODE HERE ====================== */
 	m_O = A;
-	m_d = B - A;
+	Vector3 dir = B - A;
 
-	if (m_d.isZero())
+	if (dir.isZero())
 	{
-		printf("Son valores sospechosamente ceranos, vamos a poner un 0!");
+		printf("Son valores sospechosamente cercanos...");
 		m_d = 0;
 	}
 
-	m_d = m_d.normalize();
+	m_d = dir.normalize();
 	/* =================== END YOUR CODE HERE ====================== */
 }
 
@@ -63,9 +63,10 @@ float Line::paramDistance(const Vector3 &P) const
 	Vector3 p_mo;
 	p_mo = P - m_O;
 	prod_esc1 = m_d.dot(p_mo);
-	prod_esc2 = m_d.dot(m_O);
+	prod_esc2 = m_d.dot(m_d);
 
-	if (prod_esc2 == 0){
+	if (prod_esc2 <= 1e-05)
+	{
 		return 0.0;
 	}
 
@@ -90,7 +91,7 @@ float Line::distance(const Vector3 &P) const
 	Uo = paramDistance(P);
 	dist = P - (m_O + Uo * m_d);
 	res = dist.length();
-	
+
 	/* =================== END YOUR CODE HERE ====================== */
 	return res;
 }
