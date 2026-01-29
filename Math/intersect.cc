@@ -18,10 +18,20 @@
 int BSpherePlaneIntersect(const BSphere *bs, Plane *pl)
 {
 	/* =================== PUT YOUR CODE HERE ====================== */
+	float d = pl->signedDistance(bs->m_centre);
+	if (abs(d) < bs->m_radius)
+	{
+		return IINTERSECT;
+	}
+
+	if (d < 0)
+		return -IREJECT;
+	if (d > 0)
+		return +IREJECT;
 
 	/* =================== END YOUR CODE HERE ====================== */
 	// MODIFICAR ESTE RETURN
-	return 0;
+	//return 0;
 }
 
 // @@ TODO: test if two BBoxes intersect.
@@ -32,10 +42,16 @@ int BSpherePlaneIntersect(const BSphere *bs, Plane *pl)
 int BBoxBBoxIntersect(const BBox *bba, const BBox *bbb)
 {
 	/* =================== PUT YOUR CODE HERE ====================== */
+	if (bba->m_max[0] < bbb->m_min[0] || bbb->m_max[0] < bba->m_min[0])
+		return IREJECT;
+	if (bba->m_max[1] < bbb->m_min[1] || bbb->m_max[1] < bba->m_min[1])
+		return IREJECT;
+	if (bba->m_max[2] < bbb->m_min[2] || bbb->m_max[2] < bba->m_min[2])
+		return IREJECT;
 
 	/* =================== END YOUR CODE HERE ====================== */
 	// MODIFICAR ESTE RETURN
-	return 0;
+	return IINTERSECT;
 }
 
 // @@ TODO: test if a BBox and a plane intersect.
@@ -47,10 +63,29 @@ int BBoxBBoxIntersect(const BBox *bba, const BBox *bbb)
 int BBoxPlaneIntersect(const BBox *theBBox, Plane *thePlane)
 {
 	/* =================== PUT YOUR CODE HERE ====================== */
+	Vector3 normal = thePlane->m_n;
+	Vector3 max = theBBox->m_max;
+	Vector3 min = theBBox->m_min;
+	int i = 0;
+
+	for (i = 0; i < 3; i++)
+	{
+		if (normal[i] > 0)
+			std::swap(min[i], max[i]);
+	}
+
+	float d = thePlane->m_d;
+	float minDot = normal.dot(min);
+	float maxDot = normal.dot(max);
+
+	if (minDot > d && maxDot > d)
+		return +IREJECT;
+	if (minDot < d && maxDot < d)
+		return -IREJECT;
 
 	/* =================== END YOUR CODE HERE ====================== */
 	// MODIFICAR ESTE RETURN
-	return 0;
+	return IINTERSECT;
 }
 
 // Test if two BSpheres intersect.
